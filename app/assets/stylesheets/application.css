@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+.bd-callout {
+  margin-top: 10px;
+  border-left: 0.25rem solid var(--bd-callout-border, var(--bs-gray-300));
+  padding-left: 5px;
+  width: 400px;
+}
+
+.coach {
+  background-color: rgb(255, 231, 110, 0.7);
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  margin-left: 10px;
+}
